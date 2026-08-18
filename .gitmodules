@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/genecell/genecell.r-universe.dev
 	branch = HEAD
+[submodule "COSG"]
+	path = COSG
+	url = https://github.com/genecell/COSGR
 [submodule "cytome"]
 	path = cytome
 	url = https://github.com/genecell/cytome-r
