@@ -1,0 +1,10 @@
+{
+  "id": 154761008,
+  "created_at": "2026-08-18T21:03:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["genecell.r-universe.dev"]
+}
