@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/genecell/genecell.r-universe.dev
 	branch = HEAD
+[submodule "cytome"]
+	path = cytome
+	url = https://github.com/genecell/cytome-r
